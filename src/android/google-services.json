@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "420162112821",
+    "firebase_url": "https://glatfelter-ordering-hub.firebaseio.com",
+    "project_id": "glatfelter-ordering-hub",
+    "storage_bucket": "glatfelter-ordering-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420162112821:android:4c9de3702e0160e5",
+        "android_client_info": {
+          "package_name": "comhubaa.ordercloudapps.hubaawebviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420162112821-a3ha3aebvu3lrbpmhu6l0oj77bi0irdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFSQHxwuNY_0d2j5XKNmWHlDJE5dFw4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
